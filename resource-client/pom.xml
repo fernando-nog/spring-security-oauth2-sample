@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.github.spring.sample.client</groupId>
-	<artifactId>client</artifactId>
+	<artifactId>resource-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>Client Oauth</name>
-	<description>Sample using spring security with Outh 2</description>
+	<name>resource-client</name>
+	<description></description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
